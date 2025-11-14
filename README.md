@@ -1,4 +1,4 @@
-https://github.com/StekenWoodSolutions/StekenWoodsSolutions.github/blob/3699a01e25938836e55dc7eab5b854160203dd4d/file_0.png
+![StekenWood Logo](https://github.com/StekenWoodSolutions/StekenWoodsSolutions.github/raw/3699a01e25938836e55dc7eab5b854160203dd4d/file_0.png)
 StekenWood Solutions was founded through the strategic alliance of two highly specialized and complementary entities: Gang del Bosco and Stechem Lab.
 
 Gang del Bosco, with over ten years of experience in full-stack web development, has built a strong reputation for delivering reliable and scalable digital infrastructures. Its core expertise lies in PHP-based architectures, MySQL database engineering, and the design of custom management systems. The group is known for its hands-on, craftsmanship-driven approach to software, capable of translating complex operational demands into robust and maintainable applications.
